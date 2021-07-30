@@ -1,0 +1,11 @@
+{
+  "name": "cantopop-api",
+  "version": "1.0.0",
+  "description": "API for cantopop",
+  "scripts": {
+    "deploy": "gh-pages -d api"
+  },
+  "dependencies": {
+    "gh-pages": "3.2.3"
+  }
+}
