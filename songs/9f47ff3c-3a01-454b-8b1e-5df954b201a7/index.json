@@ -1,1 +1,22 @@
-{}
+{
+  "id": "9f47ff3c-3a01-454b-8b1e-5df954b201a7",
+  "artist": "林二汶",
+  "title": "最後的信仰",
+  "youtube_id": "tsL-kPHb0UU",
+  "lyrics": [
+    {
+      "provider": "genius",
+      "locale": "zh_HK",
+      "genius_song_id": "5462067",
+      "start_index": 648,
+      "end_index": 1389
+    },
+    {
+      "provider": "genius",
+      "locale": "zh_HK_R",
+      "genius_song_id": "5462173",
+      "start_index": 643,
+      "end_index": 2878
+    }
+  ]
+}
